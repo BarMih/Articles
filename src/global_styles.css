@@ -1,0 +1,23 @@
+/* Add application styles & imports to this file! */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.viewport {
+    height: 90%;
+    width: 100%;
+    border: 1px solid black;
+}
+
+.item {
+    height: 120px;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    position: sticky;
+    top: 0;
+}
